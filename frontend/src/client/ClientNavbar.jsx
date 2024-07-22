@@ -60,7 +60,7 @@ export default function ClientNavbar() {
               />
             </svg>
           </span>
-          <span className="font-bold" id='title'>DevUI</span>
+          <span className="font-bold" id='title'>Online Business</span>
         </div>
         <div className="hidden lg:block">
           <ul className="inline-flex space-x-8">

@@ -45,7 +45,7 @@ export default function Navbar() {
               />
             </svg>
           </span>
-          <span className="font-bold" id='title'>DevUI</span>
+          <span className="font-bold" id='title'>Online shopping</span>
         </div>
         <div className="hidden lg:block">
           <ul className="inline-flex space-x-8">
@@ -93,7 +93,7 @@ export default function Navbar() {
                         />
                       </svg>
                     </span>
-                    <span className="font-bold">DevUI</span>
+                    <span className="font-bold">E-Bussiness</span>
                   </div>
                   <div className="-mr-2">
                     <button
